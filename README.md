@@ -1,5 +1,7 @@
 # ESNext Proposal: The Pipeline Operator
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 This proposal introduces a new operator `|>` similar to
   [F#](https://en.wikibooks.org/wiki/F_Sharp_Programming/Higher_Order_Functions#The_.7C.3E_Operator),
   [OCaml](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html#VAL%28|%3E%29),
